@@ -1,0 +1,5 @@
+name=input("enter your name: ")
+age=input("enter your age: ")
+address=input("enter the address: ")
+output ="name:%s, age:%d, address:%s"%(name,int(age),address)
+print(output)
